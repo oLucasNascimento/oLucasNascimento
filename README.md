@@ -21,7 +21,7 @@ Ou pode me contatar via [Email](mailto:lucas.nferreira@example.com) 📩
 </div>
 <br>
 <div>
- <img src="https://github-readme-stats.vercel.app/api?username=oLucasNascimento&theme=radical&show_icons=true&count_private=true" width="60%"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=oLucasNascimento&theme=radical&show_icons=true&count_private=true&include_all_commits=true" width="60%"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oLucasNascimento&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" width="39%"
   />
 </div>
